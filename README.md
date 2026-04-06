@@ -14,7 +14,7 @@ Bem-vindo ao repositório oficial de downloads do **Miolo**!
 
 O programa não requer uma instalação complexa. Ele é um único arquivo executável pronto para uso.
 
-1. Acesse a aba **[Releases (Lançamentos)] aqui no GitHub.
+1. Acesse a aba **[Releases (Lançamentos)]github.com/Parcos7/miolo-releases/releases/download/vInicial/main.exe aqui no GitHub.
 2. Baixe o arquivo mais recente chamado `Miolo.exe`.
 3. Coloque o arquivo em uma pasta da sua preferência no seu computador.
 4. Dê um duplo clique para abrir e pronto!
